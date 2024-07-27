@@ -1,0 +1,16 @@
+{
+    "name": "head-first-ts",
+    "version": "1.0.0",
+    "scripts": {
+        "hf1": "ts-node src/hf1/DuckTest.ts",
+        "format": "prettier --write ."
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "description": "",
+    "devDependencies": {
+        "prettier": "^3.3.3",
+        "ts-node": "^10.9.2"
+    }
+}
